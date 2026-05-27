@@ -1,95 +1,87 @@
 # java-testing-exercises
 
-A hands-on collection of Java testing exercises designed to build familiarity with unit testing concepts, assertions, and test-driven development (TDD) practices.
-
----
-
 ## Overview
 
-This repository serves as a personal learning sandbox for practising software testing in Java. Each exercise targets a specific testing concept or technique, making it easy to revisit individual topics as skills develop.
+This repository contains a Java project prepared as part of a personal
+GitHub portfolio.
 
 ## Tech Stack
 
-| Layer | Technology |
-|---|---|
-| Language | Java |
-| Testing framework | JUnit (4 / 5) |
-| Build tool | Maven or Gradle (confirm in project root) |
-| IDE target | IntelliJ IDEA / Eclipse / VS Code |
+- Primary language: Java
+- Frameworks and tools: docx
+- Project type: document-automation
 
-## Repository Structure
+## Repository Snapshot
 
-```
-java-testing-exercises/
-├── src/
-│   ├── main/java/        # Source classes under test
-│   └── test/java/        # Test cases and exercises
-├── pom.xml / build.gradle
-└── README.md
-```
+- Main language: Java
+- Category: learning_project
+- Priority: low
+- Days since update: 3
+- Has description: True
+- Has topics: True
+- Has README: True
+- Portfolio status: learning
+- Quality signals: has-tests, has-license
 
-> Adjust the tree above to match the actual layout once reviewed.
+## Suggested Topics
 
-## Getting Started
+- document-automation
+- docx
+- exercises
+- java
+- learning-project
+- testing
 
-### Prerequisites
+## Project Structure
 
-- Java 11 or later
-- Maven 3.8+ **or** Gradle 7+
+Observed repository paths:
 
-### Clone the repository
+- Ejercicio 1
+- Ejercicio 1/Ejercicio 1.docx
+- Ejercicio 2 y 3
+- Ejercicio 2 y 3/driver
+- Ejercicio 2 y 3/driver/chromedriver.exe
+- Ejercicio 2 y 3/pom.xml
+- Ejercicio 2 y 3/ruta
+- Ejercicio 2 y 3/ruta/de
+- Ejercicio 2 y 3/ruta/de/destino.png
+- Ejercicio 2 y 3/screenshot
+- Ejercicio 2 y 3/screenshot/captura.png
+- Ejercicio 2 y 3/src
+- Ejercicio 2 y 3/src/json
+- Ejercicio 2 y 3/src/json/request.json
+- Ejercicio 2 y 3/src/test
+- Ejercicio 2 y 3/src/test/java
+- LICENSE
+- README.md
 
-```bash
-git clone https://github.com/DiegR02/java-testing-exercises.git
-cd java-testing-exercises
-```
+## Installation
 
-### Run all tests
-
-```bash
-# Maven
-mvn test
-
-# Gradle
-gradle test
-```
-
-> Confirm the exact build tool and commands by inspecting the project root before running.
+- Review the repository source files to confirm setup requirements.
+- Add exact commands after human validation.
 
 ## Usage
 
-Browse the `src/test/java` directory to find individual exercise files. Each file focuses on a specific testing topic such as:
-
-- Basic assertions and matchers
-- Exception testing
-- Parameterised tests
-- Mocking with Mockito (if included)
-- Test lifecycle annotations (`@BeforeEach`, `@AfterEach`, etc.)
-
-Open an exercise, read the inline comments, and implement or extend the test cases to complete the exercise.
-
-## Learning Goals
-
-- Understand the structure of a well-written unit test
-- Apply the Arrange–Act–Assert (AAA) pattern consistently
-- Practise test-driven development by writing tests before implementation
-- Build confidence with JUnit 5 and common testing utilities
+- Add usage examples after validating the project entrypoint.
 
 ## Project Status
 
-| Field | Value |
-|---|---|
-| Status | Active learning |
-| Category | Learning project |
-| Priority | Low |
-| Portfolio role | Practice / skill demonstration |
+- Category: learning_project
+- Priority: low
 
-This is a personal practice repository, not production software. Code quality and coverage will improve incrementally as exercises are completed.
+## Repository Maintenance
 
-## Contributing
+This repository has been reviewed for naming, metadata and documentation
+consistency.
 
-This repository is primarily for personal learning. Suggestions and corrections are welcome via issues.
+## Suggested Actions
 
-## License
+- None
 
-See the [LICENSE](LICENSE) file for details.
+## Review Notes
+
+It looks like a practice or learning repository.
+
+- Stack: docx
+- Project type: document-automation
+- Position as learning or practice work, not production software.
